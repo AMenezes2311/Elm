@@ -1,4 +1,4 @@
--- Created by Andre Menezes --
+-- Created by Andre Menezes, Tung Ho, Margaret Hong, Armaan Nanji --
 
 view model =
     collage 192 128 (myShapes model)
