@@ -1,3 +1,5 @@
+-- Created by Andre Menezes --
+
 view model =
     collage 192 128 (myShapes model)
 
